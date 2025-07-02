@@ -1,0 +1,6 @@
+weight = input("Enter your weight: ")
+weight = int(weight)
+height = input("Enter your meters: ")
+height = int(height)
+bmi = weight / (height * height)
+print("You BMI is:" , bmi)
