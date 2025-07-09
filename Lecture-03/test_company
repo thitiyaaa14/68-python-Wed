@@ -1,0 +1,7 @@
+employees = int (input ("Enter the number of employees in the company: "))
+if employees <50:
+    print("The company is small.")
+elif employees < 250:
+    print ("The company is medium-size.")
+elif employees <= 250:
+    print("The company is large. ")
