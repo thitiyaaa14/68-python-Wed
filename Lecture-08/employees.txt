@@ -1,7 +1,3 @@
-Name: Thitiya Phosri
-ID number: 084
-Department: Engineering
-
-Name: Theeraphong
-ID number: 004
-Department: Engineering
+name: Thitiya 
+IDNum: 014
+dpt: Marketing
